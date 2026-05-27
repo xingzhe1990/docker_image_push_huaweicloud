@@ -1,7 +1,7 @@
 [
     {
       "image": "pengpan/91160-cli",
-      "version": "latest1",
+      "version": "latest",
       "architectures": [
         "amd64"
       ]
