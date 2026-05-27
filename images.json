@@ -1,6 +1,6 @@
 [
     {
-      "image": "pengpan/91160-cli",
+      "image": "ghcr.io/pengpan/91160-ocr-server",
       "version": "latest",
       "architectures": [
         "amd64"
