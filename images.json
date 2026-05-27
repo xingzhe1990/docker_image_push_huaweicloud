@@ -1,6 +1,6 @@
 [
     {
-      "image": "quay.io/oauth2-proxy/oauth2-proxy",
+      "image": "pengpan/91160-cli",
       "version": "latest",
       "architectures": [
         "amd64"
