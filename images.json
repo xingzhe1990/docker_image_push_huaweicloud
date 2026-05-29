@@ -1,6 +1,6 @@
 [
     {
-      "image": "ghcr.io/pengpan/91160-ocr-server",
+      "image": "alpine/socat",
       "version": "latest",
       "architectures": [
         "amd64"
