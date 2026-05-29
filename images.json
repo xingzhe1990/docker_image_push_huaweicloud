@@ -1,6 +1,6 @@
 [
     {
-      "image": "alpine/socat",
+      "image": "gudong226/xianyu-auto-reply-fix",
       "version": "latest",
       "architectures": [
         "amd64"
