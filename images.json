@@ -1,7 +1,7 @@
 [
     {
-      "image": "gudong226/xianyu-auto-reply-fix",
-      "version": "latest",
+      "image": "ethanzhu/xianyu-auto-reply-fix",
+      "version": "sha-a168506",
       "architectures": [
         "amd64"
       ]
