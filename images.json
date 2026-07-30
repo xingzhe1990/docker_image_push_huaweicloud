@@ -1,6 +1,6 @@
 [
     {
-      "image": "zhinianblog/xianyu-auto-reply",
+      "image": "redis",
       "version": "latest",
       "architectures": [
         "amd64"
